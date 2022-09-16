@@ -1,2 +1,0 @@
-# iNeuron-Assignments
-"Hello World"
